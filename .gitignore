@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+dataset/
+animals/
+cars/
+Fog/
+Foggy_Cityscapes/
+camel/
+*.pth
+*.pt
+.DS_Store
